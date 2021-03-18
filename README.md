@@ -25,7 +25,7 @@ This application demonstrates the [Perspective Warp](https://docs.nvidia.com/vpi
     $ make
     ```
 
-## Run
+## Execution
 1. Print [the marker sheet](./marker_sheet.pdf).
 1. Excute the application and place the marker sheet in front of the camera.
 ```
