@@ -23,4 +23,13 @@ This application demonstrates the [Perspective Warp](https://docs.nvidia.com/vpi
     $ make
     ```
 
+## Run
+```
+$ ./vpi_perspective_warp_aruco --video video_file
+```
+### Example
+```
+./vpi_perspective_warp_aruco --video /opt/nvidia/vpi1/samples/assets/dashcam.mp4
+```
 
+```
