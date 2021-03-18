@@ -2,6 +2,7 @@
 
 ## What does this application do?
 This application demonstrates the [Perspective Warp](https://docs.nvidia.com/vpi/algo_persp_warp.html) function of [NVIDIA VPI](https://developer.nvidia.com/embedded/vpi) with [OpenCV ArUco](https://docs.opencv.org/master/d5/dae/tutorial_aruco_detection.html) module.
+
 ![](./demo.gif)
 
 ## Prerequisites
